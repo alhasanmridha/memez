@@ -32,7 +32,7 @@ Given the prompt:
 📝 `"learning AI to build a career, learning AI to create memes"`  
 
 **Expected Output**  
-For a similar prompt, such as `"learning programming to understand programming memes"`, the system would select the **"Drake Hotline Bling"** template, as it best fits the contrast in choices.  
+For a similar prompt, such as `"learning AI to build a career, learning AI to create memes"`, the system would select the **"Drake Hotline Bling"** template, as it best fits the contrast in choices.  
 
 ### Key Skills to Learn:
 
