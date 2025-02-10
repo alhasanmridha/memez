@@ -1,2 +1,4 @@
 # memez
-AI-Powered Meme Generator
+Memes have become a powerful communication tool in the digital age, conveying ideas and emotions quickly and effectively. This project aims to develop an AI-powered platform that simplifies meme creation. Users provide a text prompt, and the system intelligently selects a relevant meme template from a curated library. It then generates contextually appropriate text that aligns with both the template and the user’s input.
+
+Designed for ease of use, the platform eliminates the frustration of searching for templates without knowing their names. By streamlining the process, it enables users to effortlessly create shareable and humorous content. The focus is on intelligent template selection and text generation to ensure high-quality, contextually relevant memes.
