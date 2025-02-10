@@ -10,7 +10,7 @@ Designed for ease of use, the platform eliminates the frustration of searching f
 
 ## Phase 1: Meme Template Matcher
 
-**Goal:** Create a basic system that can match a user's text prompt to a meme template using a simple AI model trained with predefined data. This will be a very simplified version of template selection, but it will help to get started with code and demonstrate the basic idea to select a meme template.
+**Goal:** Develop an AI model using predefined data to match user text prompts with relevant meme templates
 
 ### Example
 
