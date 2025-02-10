@@ -6,6 +6,8 @@ Designed for ease of use, the platform eliminates the frustration of searching f
 
 # Road Map
 
+![image](https://github.com/user-attachments/assets/7bcd32ad-0a6a-4f7a-92b1-04486cde3ce3)
+
 ## Phase 1: Meme Template Matcher
 
 **Goal:** Create a basic system that can match a user's text prompt to a meme template using a simple AI model trained with predefined data. This will be a very simplified version of template selection, but it will help to get started with code and demonstrate the basic idea to select a meme template.
